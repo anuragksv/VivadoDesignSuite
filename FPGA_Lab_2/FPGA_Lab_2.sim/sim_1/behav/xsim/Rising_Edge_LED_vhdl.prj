@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../FPGA_Lab_2.srcs/sources_1/new/Rising_Edge_LED.vhd" \
+
+# Do not sort compile order
+nosort

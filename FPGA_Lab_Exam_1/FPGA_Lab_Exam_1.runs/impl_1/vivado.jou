@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct 15 12:55:14 2022
+# Process ID: 21412
+# Current directory: D:/git/VivadoDesignSuite/FPGA_Lab_Exam_1/FPGA_Lab_Exam_1.runs/impl_1
+# Command line: vivado.exe -log Mealy_Machine.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Mealy_Machine.tcl -notrace
+# Log file: D:/git/VivadoDesignSuite/FPGA_Lab_Exam_1/FPGA_Lab_Exam_1.runs/impl_1/Mealy_Machine.vdi
+# Journal file: D:/git/VivadoDesignSuite/FPGA_Lab_Exam_1/FPGA_Lab_Exam_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Mealy_Machine.tcl -notrace

@@ -1,7 +1,7 @@
-Running: xsim.dir/Rising_Edge_LED_behav/xsimk.exe -simmode gui -wdb Rising_Edge_LED_behav.wdb -simrunnum 0 -socket 63213
+Running: xsim.dir/Rising_Edge_LED_behav/xsimk.exe -simmode gui -wdb Rising_Edge_LED_behav.wdb -simrunnum 0 -socket 61013
 Design successfully loaded
-Design Loading Memory Usage: 7444 KB (Peak: 7444 KB)
-Design Loading CPU Usage: 46 ms
+Design Loading Memory Usage: 7824 KB (Peak: 7824 KB)
+Design Loading CPU Usage: 61 ms
 Simulation completed
-Simulation Memory Usage: 8000 KB (Peak: 8000 KB)
-Simulation CPU Usage: 171 ms
+Simulation Memory Usage: 8372 KB (Peak: 8372 KB)
+Simulation CPU Usage: 155 ms

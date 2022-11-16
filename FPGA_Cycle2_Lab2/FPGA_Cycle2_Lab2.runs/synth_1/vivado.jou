@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Nov 11 11:54:35 2022
+# Process ID: 6812
+# Current directory: D:/git/VivadoDesignSuite/FPGA_Cycle2_Lab2/FPGA_Cycle2_Lab2.runs/synth_1
+# Command line: vivado.exe -log HT12E_D.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source HT12E_D.tcl
+# Log file: D:/git/VivadoDesignSuite/FPGA_Cycle2_Lab2/FPGA_Cycle2_Lab2.runs/synth_1/HT12E_D.vds
+# Journal file: D:/git/VivadoDesignSuite/FPGA_Cycle2_Lab2/FPGA_Cycle2_Lab2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source HT12E_D.tcl -notrace

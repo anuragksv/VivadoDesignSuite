@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Oct 14 20:07:54 2022
+# Process ID: 17880
+# Current directory: D:/git/VivadoDesignSuite/FPGA_Lab_1/FPGA_Lab_1.runs/impl_2
+# Command line: vivado.exe -log Probem_2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Probem_2.tcl -notrace
+# Log file: D:/git/VivadoDesignSuite/FPGA_Lab_1/FPGA_Lab_1.runs/impl_2/Probem_2.vdi
+# Journal file: D:/git/VivadoDesignSuite/FPGA_Lab_1/FPGA_Lab_1.runs/impl_2\vivado.jou
+#-----------------------------------------------------------
+source Probem_2.tcl -notrace

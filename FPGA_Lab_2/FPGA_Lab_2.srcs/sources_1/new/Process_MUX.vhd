@@ -35,20 +35,19 @@ entity Process_MUX is
     Port ( a, b, c, d: in STD_LOGIC :='0';
            y: out STD_LOGIC := '0' );
 end Process_MUX;
-
+                                                                            
 architecture Behavioral of Process_MUX is
     signal I0, I1, I2, I3: STD_LOGIC:='0';
-    signal cd: STD_LOGIC_VECTOR:="00";
+    signal cd: STD_LOGIC_VECTOR(1 downto 0):="00";
 
 begin
     cd <= c&d;
     P0: Process (a, b)
         begin 
-            I0 <= '1';
-            I1 <= not (a) or not (b);
-            I2 <= '0';
-            I3 <= a and b;
-
+            I0 <= b;
+            I1 <= a xnor b;
+            I2 <= a and b;
+            I3 <= '1';
     end Process;
 
     P1: Process (cd, I0, I1, I2, I3)

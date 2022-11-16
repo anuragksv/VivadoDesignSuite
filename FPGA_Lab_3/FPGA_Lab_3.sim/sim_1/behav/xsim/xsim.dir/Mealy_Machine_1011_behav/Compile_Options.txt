@@ -1,0 +1,1 @@
+-wto "9da257b4a52d418e82ab8ea4b94a3845" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Mealy_Machine_1011_behav" "xil_defaultlib.Mealy_Machine_1011" -log "elaborate.log" 
